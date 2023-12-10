@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "ViagensIFSP",
+    "slug": "ViagensIFSP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.yourapp",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Este aplicativo precisa da permissão da câmera para tirar fotos."
+      }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yourcompany.yourapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d4d3e88a-d4ce-44cc-8da5-0e078a3a3e9c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d4d3e88a-d4ce-44cc-8da5-0e078a3a3e9c"
+    }
+  }
+}
