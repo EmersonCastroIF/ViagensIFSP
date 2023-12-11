@@ -1,0 +1,26 @@
+Alunos:
+Emerson Castro
+Richard Castro
+
+Relatório – Flutter/React Native
+
+Um pouco da experiencia com React Native: 
+
+A utilização do React Native foi boa, visto que já tínhamos trabalho com React no semestre passado. O Framework tem uma curva de aprendizado muito boa, visto que também tem muito material grátis na internet, isso facilitou bastante. O desafio inicial foi utilizar o SQLite, porém isso rapidamente conseguimos superar, o que também dificultou um pouco foi a utilização de datas pois ele Salva como texto, porém a biblioteca “moment” também facilitou bastante.
+Também foi muito interessante a experiencia com  ExpoGo, que atualiza em tempo real o aplicativo enquanto estamos codificando, permitindo identificarmos possíveis problemas e compatibilidade entre a plataforma IOS e Android por exemplo.
+
+Um pouco da experiencia com Flutter
+O Dart do Flutter apresenta um idioma distinto, mas que é estruturado de forma simples e intuitiva, facilitando seu aprendizado. A possibilidade de compilar o código nativamente tem melhorado o desempenho dos aplicativos, tornando-os mais eficientes.
+Com o Flutter, temos uma infinidade de widgets à nossa disposição. Eles agem como blocos de construção que nos permitem criar interfaces de usuário consistentes em diferentes plataformas.
+Além disso, o Flutter oferece o benefício do hot reload. Isso nos permite fazer alterações em tempo real enquanto o aplicativo ainda está rodando, sem a necessidade de interrompê-lo. 
+
+Vantagem(s) – ReactNative
+Vasta Gama de Bibliotecas.
+Muito Material Disponível na internet de forma gratuita.
+
+Destavangem(s) – ReactNative
+Ter que codificar diferente o uso de alguns componentes para plataformas distintas (IOS e Android).
+
+Conclusão
+A escolha entre React Native e Flutter pode ser comparada à escolha entre Pizza e Hambúrguer. Ambos têm suas vantagens distintas e a decisão final pode depender da necessidade do cliente.
+Independentemente do Framework entendemos que ambos atendem bem as necessidades do mercado. 
